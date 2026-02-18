@@ -102,7 +102,7 @@ def decrypt_file(filepath):
     print("File decrypted successfully")
     print(f"Decrypt key saved as: {decrypt_key_filename}")
 
-# -------- Main menu --------
+
 def main():
     while True:
         print()
