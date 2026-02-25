@@ -62,7 +62,7 @@ after the run the code you will see a menu like this
 2. Decrypt File
 3. Exit
 
-## Video line 
+## Video link
 ```
 https://youtu.be/HZ978FEvCnk
 ```
