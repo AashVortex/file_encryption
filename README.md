@@ -45,13 +45,20 @@ clone the repository:
 git clone https://github.com/AashVortex/file_encryption.git
 cd file_encryption
 ```
-## Usage
-to run the program 
-```
-python file_encrpt.py
-``
-reminder before the run install
+Install required dependencies:
 ```
 pip install cryptography
 ```
+
+## Usage
+to run the program 
+
+```
+python file_encrpt.py
+```
+after the run the code you will see a menu like this
+
+1. Encrypt File
+2. Decrypt File
+3. Exit
 
