@@ -56,7 +56,7 @@ to run the program
 ```
 python file_encrpt.py
 ```
-after the run the code you will see a menu like this
+after you run the code you will see a menu like this
 
 1. Encrypt File
 2. Decrypt File
