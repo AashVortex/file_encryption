@@ -28,4 +28,14 @@ Features
 └── CLI-based user interaction
 ```
 
+## project structure 
+```
+file_encryption/
+│
+├── main.py
+├── key.key
+├── decryptkey.decryptkey
+├── README.md
+└── example_files/
+```
 
