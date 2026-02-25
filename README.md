@@ -38,4 +38,11 @@ file_encryption/
 ├── README.md
 └── example_files/
 ```
+## Installation
+
+clone the repository:
+```
+git clone https://github.com/AashVortex/file_encryption.git
+cd file_encryption
+```
 
