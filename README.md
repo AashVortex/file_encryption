@@ -4,7 +4,7 @@ A Python-based file encryption and decryption tool designed to protect sensitive
 The application runs through a Command Line Interface (CLI) and allows users to securely encrypt files, generate encryption keys automatically, and decrypt files when needed.
  
 ## Objectives
-
+```
 Objectives
 │
 ├── Develop a secure file encryption system for protecting sensitive data
@@ -12,7 +12,7 @@ Objectives
 ├── Automatically generate and manage encryption keys
 ├── Provide a simple command-line interface for encryption and decryption
 └── Ensure confidentiality and integrity of digital files
-
+```
 
 ## Features
 
